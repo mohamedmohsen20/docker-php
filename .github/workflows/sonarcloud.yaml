@@ -22,3 +22,4 @@ jobs:
           args: >
             -Dsonar.organization=mohsen-php
             -Dsonar.projectKey=mohsen-php
+            -Dsonar.sources=lib/
